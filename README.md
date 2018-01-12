@@ -1,7 +1,12 @@
-# DAT405_ASSIGNMENT_ONE
+# DAT405_ASSIGNMENT_TWO
 
 
-The aim of this project is to create something that resembles a firework exploding.
+The aim of this project is to use data collected from an API and visually represent it.
+
+To change the what year, country and sex you must edit the sketch file where there are three variables you need to change:
+let sex = "female";
+let date = "1971"; 
+let country = "United Kingdom";
 
 To create a firework click anywhere within the canvas which is indicated with a black outline.
 

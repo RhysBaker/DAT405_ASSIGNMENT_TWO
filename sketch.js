@@ -13,7 +13,7 @@ let country = "Uganda"; //http://api.population.io:80/1.0/countries
 function preload() {
   // Get the most recent earthquake in the database
   var url =
-   "http://api.population.io:80/1.0/life-expectancy/total/" + sex + "/" + country + "/" + date + "-01-01/";
+   "https://api.population.io:80/1.0/life-expectancy/total/" + sex + "/" + country + "/" + date + "-01-01/";
   data = loadJSON(url);
 }
 

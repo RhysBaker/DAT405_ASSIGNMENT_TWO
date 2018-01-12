@@ -1,0 +1,41 @@
+/* giving the body of the page no padding or margin except from the top  */
+body {
+padding:0%;
+margin:0%;
+margin-top: 1%;
+}
+
+/* giving the title a new font a font size and positioning it */
+h1{
+padding:0%;
+margin:0%;
+font-family: 'Roboto', sans-serif;
+font-size: 160px;
+padding-left: 30%;
+}
+
+#leContainer{
+padding:0%;
+padding-right: 15%;
+margin:0%;
+float:right;
+font-family: 'Roboto', sans-serif;
+font-size: 24px;
+padding-left: 30%;
+}
+
+
+/* giving the instructiong a new font a font size and removing the bullet points */
+.list{
+   font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    list-style-type: none;
+}
+
+/* positioning the canvas */
+#canvasContainer {
+margin-top: 1%;
+margin-bottom: 1%;
+margin-left: 2%;
+float:left;
+}
